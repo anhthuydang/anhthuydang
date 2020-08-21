@@ -1,6 +1,6 @@
 # Anh Dang
-**Front End Web Developer
-**I'm open to work 💻 🤓
+Front End Web Developer <br>
+**I'm open to work 💻 🤓**
 ## About Me
 ✔️ Passionate about PROBLEM SOLVING 🤓 <br>
 
@@ -12,7 +12,7 @@
 ### Performance Management ⭐️⭐️⭐️
 This is a tech assignment I have built from scratch recently. As I never worked with graphs before, I'm very proud that it only took me  3 days to learn ApexCharts library and successfully implemented the charts into this React App.
 
-<img width="100%" src="https://media.giphy.com/media/LMQ2cvKPjUI8XMe8rr/giphy.gif">
+<img width="100%" src="https://www.loom.com/share/bcf63ad2ac07413eb8f49459bdf3fb24">
 
 <!--
 **anhthuydang/anhthuydang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
