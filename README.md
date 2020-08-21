@@ -1,6 +1,6 @@
 # Anh Dang
 **Front End Web Developer** <br>
-**I'm open to work 💻 🤓**
+**I'm open to work 💻 **
 ## About Me
 ✔️ Passionate about PROBLEM SOLVING 🤓 <br>
 
