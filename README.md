@@ -4,7 +4,7 @@
 ## About Me
 ✔️ Passionate about PROBLEM SOLVING 🤓 <br>
 
-✔️ Love CHALLENGING 🤯 <br>
+✔️ Love CHALLENGING tasks 🤯 <br>
 
 ✔️ Constantly LEARNING 📝 <br>
 
