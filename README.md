@@ -1,8 +1,16 @@
 # Anh Dang
+# Front End Web Developer
 ## I'm open to work 💻 🤓
+## About Me
+✔️ Passionate about PROBLEM SOLVING 🤓
+✔️ Love CHALLENGING 🤯
+✔️ Constantly LEARNING 📝
 
 ## Projects
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/bcf63ad2ac07413eb8f49459bdf3fb24" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+### Performance Management ⭐️⭐️⭐️
+This is a tech assignment I have built from scratch recently. As I never worked with graphs before, I'm very proud that it only took me  3 days to learn ApexCharts library and successfully implemented the charts into this React App.
+<img src="https://giphy.com/gifs/LMQ2cvKPjUI8XMe8rr">
+
 <!--
 **anhthuydang/anhthuydang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
