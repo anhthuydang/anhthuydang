@@ -12,6 +12,6 @@
 ### Performance Management ⭐️⭐️⭐️
 This is a tech assignment I have built from scratch recently. As I never worked with graphs before, I'm very proud that it only took me  3 days to learn ApexCharts library and successfully implemented the charts into this React App.
 
-<p align="center"><img width="80%" src="https://media.giphy.com/media/jq0Oe8JWR6IEvqOjL4/giphy.gif"></p>
+<p align="center"><img src="https://media.giphy.com/media/jq0Oe8JWR6IEvqOjL4/giphy.gif"></p>
 
 
