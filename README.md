@@ -33,5 +33,5 @@ React | APIs | ES6 JavaScript | CSS3 | HTML5 <br>
 
 [View Live](https://teamjuicywatermelon.github.io/PodcastCommuter/) |  [View Github](https://github.com/TeamJuicyWatermelon/PodcastCommuter)
 
-<p align="center"><img src="https://media.publit.io/file/ezgif.com-video-to-gif-o.gif"></p>
+<p align="center"><img src="https://media.publit.io/file/ezgif.com-video-to-gif-1.gif"></p>
 
