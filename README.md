@@ -29,6 +29,7 @@ ReactJS | Firebase | Javascript ES6 | CSS3 | HTML5 <br>
 
 ### ⭐️ Podcast Commuter (Group Project)
 An app that suggests a podcast to listen to based on the length of your journey and helps you decide if you should walk or bike. 
+
 React | APIs | ES6 JavaScript | CSS3 | HTML5 <br>
 
 [View Live](https://teamjuicywatermelon.github.io/PodcastCommuter/) |  [View Github](https://github.com/TeamJuicyWatermelon/PodcastCommuter)
