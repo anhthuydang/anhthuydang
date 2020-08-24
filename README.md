@@ -9,7 +9,7 @@ I'm open to work 💻
 ✔️ Constantly LEARNING 📝 <br>
 
 ## Projects
-### ⭐️ Performance Management ⭐️
+### ⭐️ Performance Management 
 This is a tech assignment I have built from scratch recently. I'm very proud that it only took me  3 days to learn ApexCharts library and successfully implemented the charts into this React App.<br>
 
 ReactJS | ApexCharts | Javascript ES6 | CSS3 | HTML5 <br>
