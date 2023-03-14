@@ -1,7 +1,5 @@
 # Anh Dang
 **Front End Web Developer** <br>
-I'm open to work 💻 <br>
-Please email me @ anhthuydang.dev@gmail.com
 
 ## About Me
 ✔️ Passionate about PROBLEM SOLVING 🤓 <br>
